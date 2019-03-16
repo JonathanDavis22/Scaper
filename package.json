@@ -1,0 +1,27 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "A Mongoose and Cheerio scraper application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanDavis22/Scraper.git"
+  },
+  "author": "Jonathan Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanDavis22/Scraper/issues"
+  },
+  "homepage": "https://github.com/JonathanDavis22/Scraper#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.1",
+    "mongoose": "^5.4.15",
+    "morgan": "^1.9.1"
+  }
+}

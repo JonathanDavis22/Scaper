@@ -1,0 +1,5 @@
+.jumbotron .background-image {
+    height: 100%;
+    background-image: url(../images/newyorker.jpg);
+    background-size: cover;
+}
